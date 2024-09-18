@@ -1,2 +1,4 @@
 # hello-world
-This is the read me, it's here as a demo for this repository
+This is the README, it's here as a demo for this repository
+
+Updated README for the branch
